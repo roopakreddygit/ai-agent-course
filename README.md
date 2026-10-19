@@ -1,2 +1,2 @@
 # ai-agent-course
-Learning AI Agent
+Learning AI Agent how to build and use.
